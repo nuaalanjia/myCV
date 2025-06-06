@@ -58,3 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+# Uncomment options below to use them.
+extensions:
+  decap_cms:
+    branch: main
+#     publish_mode: editorial_workflow
+    local_backend: true
